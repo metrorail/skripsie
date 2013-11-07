@@ -1,0 +1,162 @@
+Aantal stelle en benutting, Benuttingsgraad = (reistyd/(reistyd+staantyd))
+--------------------------------------------------------------------------
+Lyn: BELLVILLE OOR LAVISTOWN aantal stelle benodig = 6
+Stel benuttingsgraad = 74.6 %	 Eerste trein: 9001
+Stel benuttingsgraad = 72.6 %	 Eerste trein: 9003
+Stel benuttingsgraad = 69.7 %	 Eerste trein: 9005
+Stel benuttingsgraad = 39.4 %	 Eerste trein: 9007
+Stel benuttingsgraad = 30.7 %	 Eerste trein: 9009
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9011', '9012', '9051', '9052']
+Gemiddelde staantyd by Kaapstad 53 
+(min = 16 , max = 356 , modus = 16 , mediaan = 16 )
+Gemiddelde staantyd by omdraaistasie(s) 12 
+(min = 11 , max = 12 , modus = 12 , mediaan = 12 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 57.4 %
+=====================================
+
+Lyn: CHRIS HANI aantal stelle benodig = 13
+Stel benuttingsgraad = 81.5 %	 Eerste trein: 9401
+Stel benuttingsgraad = 79.4 %	 Eerste trein: 9403
+Stel benuttingsgraad = 78.6 %	 Eerste trein: 9405
+Stel benuttingsgraad = 77.6 %	 Eerste trein: 9407
+Stel benuttingsgraad = 77.0 %	 Eerste trein: 9409
+Stel benuttingsgraad = 75.4 %	 Eerste trein: 9411
+Stel benuttingsgraad = 74.7 %	 Eerste trein: 9413
+Stel benuttingsgraad = 73.2 %	 Eerste trein: 9415
+Stel benuttingsgraad = 35.0 %	 Eerste trein: 9417
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9419', '9420', '9477', '9478']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9421', '9422', '9485', '9486']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9423', '9424', '9489', '9490']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9493', '9494']
+Gemiddelde staantyd by Kaapstad 40 
+(min = 15 , max = 395 , modus = 25 , mediaan = 25 )
+Gemiddelde staantyd by omdraaistasie(s) 9 
+(min = 7 , max = 31 , modus = 7 , mediaan = 7 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 72.5 %
+=====================================
+
+Lyn: KAPTEINSKLIP aantal stelle benodig = 13
+Stel benuttingsgraad = 72.1 %	 Eerste trein: 9501
+Stel benuttingsgraad = 70.9 %	 Eerste trein: 9503
+Stel benuttingsgraad = 70.9 %	 Eerste trein: 9505
+Stel benuttingsgraad = 69.7 %	 Eerste trein: 9507
+Stel benuttingsgraad = 68.5 %	 Eerste trein: 9509
+Stel benuttingsgraad = 67.3 %	 Eerste trein: 9511
+Stel benuttingsgraad = 65.2 %	 Eerste trein: 9513
+Stel benuttingsgraad = 35.4 %	 Eerste trein: 9515
+Stel benuttingsgraad = 34.8 %	 Eerste trein: 9517
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9519', '9520', '9577', '9578']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9521', '9522', '9581', '9582']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9523', '9524', '9591', '9592']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['9595', '9596']
+Gemiddelde staantyd by Kaapstad 37 
+(min = 11 , max = 321 , modus = 12 , mediaan = 12 )
+Gemiddelde staantyd by omdraaistasie(s) 25 
+(min = 18 , max = 28 , modus = 27 , mediaan = 27 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 61.6 %
+=====================================
+
+Lyn: MULDERSVLEI aantal stelle benodig = 4
+Stel benuttingsgraad = 70.5 %	 Eerste trein: 3401
+Stel benuttingsgraad = 71.7 %	 Eerste trein: 3403
+Stel benuttingsgraad = 65.9 %	 Eerste trein: 3405
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['3407', '3408', '3421', '3422']
+Gemiddelde staantyd by Kaapstad 60 
+(min = 13 , max = 108 , modus = 13 , mediaan = 51 )
+Gemiddelde staantyd by omdraaistasie(s) 19 
+(min = 10 , max = 33 , modus = 10 , mediaan = 17 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 69.4 %
+=====================================
+
+Lyn: STRAND aantal stelle benodig = 4
+Stel benuttingsgraad = 81.5 %	 Eerste trein: 3201
+Stel benuttingsgraad = 74.8 %	 Eerste trein: 3203
+Stel benuttingsgraad = 70.8 %	 Eerste trein: 3205
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['3207', '3208', '3223', '3224']
+Gemiddelde staantyd by Kaapstad 38 
+(min = 11 , max = 63 , modus = 11 , mediaan = 38 )
+Gemiddelde staantyd by omdraaistasie(s) 13 
+(min = 7 , max = 30 , modus = 7 , mediaan = 9 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 75.7 %
+=====================================
+
+Lyn: SUID aantal stelle benodig = 18
+Stel benuttingsgraad = 66.0 %	 Eerste trein: 0101
+Stel benuttingsgraad = 67.3 %	 Eerste trein: 0103
+Stel benuttingsgraad = 64.4 %	 Eerste trein: 0105
+Stel benuttingsgraad = 68.8 %	 Eerste trein: 0107
+Stel benuttingsgraad = 29.4 %	 Eerste trein: 0201
+Stel benuttingsgraad = 66.0 %	 Eerste trein: 0203
+Stel benuttingsgraad = 34.1 %	 Eerste trein: 0205
+Stel benuttingsgraad = 66.0 %	 Eerste trein: 0207
+Stel benuttingsgraad = 65.2 %	 Eerste trein: 0211
+Stel benuttingsgraad = 65.5 %	 Eerste trein: 0301
+Stel benuttingsgraad = 64.2 %	 Eerste trein: 0303
+Stel benuttingsgraad = 57.5 %	 Eerste trein: 0305
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['0307', '0308', '0321', '0322']
+Stel benuttingsgraad = 38.5 %	 Eerste trein: 0309
+Stel benuttingsgraad = 38.5 %	 Eerste trein: 0311
+Stel benuttingsgraad = 25.7 %	 Eerste trein: 0313
+Stel benuttingsgraad = 25.7 %	 Eerste trein: 0315
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['0361', '0362']
+Gemiddelde staantyd by Kaapstad 47 
+(min = 17 , max = 412 , modus = 17 , mediaan = 20 )
+Gemiddelde staantyd by omdraaistasie(s) 35 
+(min = 6 , max = 422 , modus = 6 , mediaan = 26 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 52.7 %
+=====================================
+
+Lyn: VLAKTE aantal stelle benodig = 7
+Stel benuttingsgraad = 65.7 %	 Eerste trein: 0501
+Stel benuttingsgraad = 64.5 %	 Eerste trein: 0503
+Stel benuttingsgraad = 64.5 %	 Eerste trein: 0505
+Stel benuttingsgraad = 63.3 %	 Eerste trein: 0507
+Stel benuttingsgraad = 34.5 %	 Eerste trein: 0509
+Stel benuttingsgraad = 33.8 %	 Eerste trein: 0511
+Stel benuttingsgraad = 22.0 %	 Eerste trein: 0513
+Gemiddelde staantyd by Kaapstad 65 
+(min = 22 , max = 502 , modus = 22 , mediaan = 37 )
+Gemiddelde staantyd by omdraaistasie(s) 8 
+(min = 7 , max = 22 , modus = 7 , mediaan = 7 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 49.8 %
+=====================================
+
+Lyn: WELLINGTON EN EERSTERIVIER aantal stelle benodig = 6
+Stel benuttingsgraad = 71.4 %	 Eerste trein: 3501
+Stel benuttingsgraad = 68.8 %	 Eerste trein: 3503
+Stel benuttingsgraad = 59.8 %	 Eerste trein: 3505
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['3507', '3508', '3521', '3522']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['3509', '3510', '3527', '3528']
+Stel doen vier of minder ritte, dus kan sinvolle benutting nie bereken word nie
+['3525', '3526']
+Gemiddelde staantyd by Kaapstad 80 
+(min = 30 , max = 172 , modus = 30 , mediaan = 68 )
+Gemiddelde staantyd by omdraaistasie(s) 20 
+(min = 8 , max = 32 , modus = 8 , mediaan = 20 )
+-------------------------------------
+Gemiddelde benutting vir lyn = 66.7 %
+=====================================
+
+Totale aantal stelle benodig = 71 

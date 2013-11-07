@@ -1,0 +1,59 @@
+ 'vlakteKYA.lp'
+Tried aggregator 1 time.
+MIP Presolve eliminated 96 rows and 0 columns.
+Reduced MIP has 96 rows, 191 columns, and 288 nonzeros.
+Reduced MIP has 94 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.26 ticks)
+Found incumbent of value -37.000000 after 0.00 sec. (0.72 ticks)
+Probing fixed 2 vars, tightened 12 bounds.
+Probing time = 0.00 sec. (0.92 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 49 rows and 96 columns.
+Reduced MIP has 47 rows, 95 columns, and 141 nonzeros.
+Reduced MIP has 47 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.18 ticks)
+Probing time = 0.00 sec. (0.50 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 47 rows, 95 columns, and 141 nonzeros.
+Reduced MIP has 47 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.10 ticks)
+Probing time = 0.00 sec. (0.51 ticks)
+Clique table members: 224.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 0.00 sec. (0.10 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                          -37.0000     -218.0000       19  489.19%
+      0     0     -218.0000    38      -37.0000     -218.0000       19  489.19%
+*     0+    0                          -97.0000     -218.0000       19  124.74%
+      0     0     -166.0000     8      -97.0000      Cuts: 92       55   71.13%
+      0     0     -152.9831    14      -97.0000      Cuts: 92       93   57.71%
+      0     0        cutoff            -97.0000      -97.0000       93    0.00%
+Elapsed time = 0.09 sec. (8.41 ticks, tree = 0.00 MB, solutions = 2)
+
+Clique cuts applied:  1
+Implied bound cuts applied:  11
+Flow cuts applied:  9
+Mixed integer rounding cuts applied:  5
+Lift and project cuts applied:  1
+Gomory fractional cuts applied:  4
+
+Root node processing (before b&c):
+  Real time             =    0.09 sec. (8.42 ticks)
+Parallel b&c, 6 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.09 sec. (8.42 ticks)
+MIP_optimal
+Solution status =  101 : MIP_optimal
+Objective value =  -97.0
+
+
+ Solution written to solution.sol
+

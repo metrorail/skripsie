@@ -1,0 +1,70 @@
+ 'vlakteProb400.lp'
+Tried aggregator 2 times.
+MIP Presolve eliminated 172 rows and 24 columns.
+Aggregator did 24 substitutions.
+Reduced MIP has 186 rows, 319 columns, and 558 nonzeros.
+Reduced MIP has 167 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.71 ticks)
+Probing fixed 0 vars, tightened 8 bounds.
+Probing time = 0.00 sec. (1.71 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 49 rows and 97 columns.
+Reduced MIP has 137 rows, 222 columns, and 411 nonzeros.
+Reduced MIP has 118 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.37 ticks)
+Probing time = 0.00 sec. (1.22 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 137 rows, 222 columns, and 411 nonzeros.
+Reduced MIP has 118 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.28 ticks)
+Probing time = 0.00 sec. (1.22 ticks)
+Clique table members: 541.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 0.00 sec. (0.33 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0     -882.0000    91                   -882.0000       48         
+      0     0     -737.9870    25                   Cuts: 134      127         
+*     0+    0                           26.0000     -737.9870      127     --- 
+      0     0     -691.4893    49       26.0000     Cuts: 134      206     --- 
+*     0+    0                          -19.0000     -691.4893      206     --- 
+      0     0     -665.0849    52      -19.0000     Cuts: 134      294     --- 
+      0     0     -603.1487    55      -19.0000     Cuts: 134      362     --- 
+*     0+    0                         -214.0000     -603.1487      362  181.85%
+      0     0     -590.4508    53     -214.0000     Cuts: 134      401  175.91%
+      0     0     -563.1722    57     -214.0000     Cuts: 103      432  163.16%
+      0     0     -559.6507    57     -214.0000      Cuts: 51      448  161.52%
+      0     0     -545.8836    55     -214.0000      Cuts: 23      464  155.09%
+      0     0     -544.4787    59     -214.0000      Cuts: 47      475  154.43%
+      0     0     -544.0936    62     -214.0000      Cuts: 40      485  154.25%
+      0     0     -544.0936    62     -214.0000   Impl Bds: 2      487  154.25%
+*     0+    0                         -274.0000     -544.0936      487   98.57%
+*     0+    0                         -319.0000     -544.0936      487   70.56%
+      0     0        cutoff           -319.0000     -319.0000      487    0.00%
+Elapsed time = 0.18 sec. (33.13 ticks, tree = 0.00 MB, solutions = 5)
+
+Clique cuts applied:  4
+Implied bound cuts applied:  17
+Flow cuts applied:  12
+Mixed integer rounding cuts applied:  22
+Gomory fractional cuts applied:  2
+
+Root node processing (before b&c):
+  Real time             =    0.18 sec. (33.16 ticks)
+Parallel b&c, 6 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.18 sec. (33.16 ticks)
+MIP_optimal
+Solution status =  101 : MIP_optimal
+Objective value =  -319.0
+
+
+ Solution written to solution.sol
+

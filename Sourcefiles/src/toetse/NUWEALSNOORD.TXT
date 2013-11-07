@@ -1,0 +1,109 @@
+ 'NUWEALSNOORD.LP'
+Tried aggregator 2 times.
+MIP Presolve eliminated 603 rows and 114 columns.
+Aggregator did 114 substitutions.
+Reduced MIP has 1105 rows, 1287 columns, and 3579 nonzeros.
+Reduced MIP has 659 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (4.16 ticks)
+Probing fixed 107 vars, tightened 616 bounds.
+Probing time = 0.05 sec. (21.80 ticks)
+Tried aggregator 2 times.
+MIP Presolve eliminated 71 rows and 290 columns.
+MIP Presolve modified 102 coefficients.
+Aggregator did 78 substitutions.
+Reduced MIP has 956 rows, 919 columns, and 3116 nonzeros.
+Reduced MIP has 430 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (3.20 ticks)
+Probing fixed 7 vars, tightened 67 bounds.
+Probing time = 0.02 sec. (11.90 ticks)
+Tried aggregator 2 times.
+MIP Presolve eliminated 1 rows and 69 columns.
+MIP Presolve modified 40 coefficients.
+Aggregator did 6 substitutions.
+Reduced MIP has 949 rows, 844 columns, and 3095 nonzeros.
+Reduced MIP has 362 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (2.69 ticks)
+Probing fixed 0 vars, tightened 11 bounds.
+Probing time = 0.01 sec. (7.41 ticks)
+Clique table members: 2456.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 0.02 sec. (11.51 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+      0     0     5747.9400   202                   5747.9400      656         
+*     0+    0                         7798.4000     5747.9400      892   26.29%
+      0     0     5787.6050   224     7798.4000     Cuts: 337      892   25.78%
+      0     0     5838.7202   214     7798.4000     Cuts: 337     1251   25.13%
+      0     0     5890.1659   210     7798.4000     Cuts: 337     1501   24.47%
+      0     0     5901.2280   231     7798.4000     Cuts: 337     1686   24.33%
+      0     0     5915.7768   216     7798.4000     Cuts: 337     1882   24.14%
+      0     0     5921.9672   207     7798.4000     Cuts: 337     2090   24.06%
+*     0+    0                         7787.6600     5921.9672     2406   23.96%
+      0     0     5941.6680   218     7787.6600     Cuts: 337     2406   23.70%
+      0     0     5943.8590   211     7787.6600     Cuts: 337     2551   23.68%
+      0     0     5948.8640   222     7787.6600     Cuts: 337     2780   23.61%
+      0     0     5956.9899   232     7787.6600     Cuts: 337     2987   23.51%
+*     0+    0                         7787.6300     5956.9899     2987   23.51%
+      0     0     5956.9899   232     7787.6300     Cuts: 337     3123   23.51%
+*     0+    0                         7784.7600     5956.9899     3385   23.48%
+      0     0     5966.4805   207     7784.7600     Cuts: 319     3385   23.36%
+      0     0     5994.2745   229     7784.7600     Cuts: 337     3618   23.00%
+      0     0     5999.4160   239     7784.7600     Cuts: 337     3857   22.93%
+      0     0     6017.9454   228     7784.7600     Cuts: 337     4259   22.70%
+      0     0     6033.3216   217     7784.7600     Cuts: 337     4580   22.50%
+      0     0     6034.4124   214     7784.7600     Cuts: 306     4702   22.48%
+      0     0     6035.0307   208     7784.7600     Cuts: 337     4851   22.48%
+      0     2     6035.0307   177     7784.7600     6035.0307     4851   22.48%
+Elapsed time = 1.06 sec. (450.80 ticks, tree = 0.01 MB, solutions = 4)
+*   497+  320                         7784.7200     6060.7575    28882   22.15%
+    497   322     7382.5760    54     7784.7200     6060.7575    28882   22.15%
+*   604   388      integral     0     7784.5100     6060.7575    33591   22.14%
+*   694   431      integral     0     7784.2600     6081.6327    38322   21.87%
+   1227   657     7178.0455    75     7784.2600     6204.0074    67285   20.30%
+   1834   911     7574.9434    35     7784.2600     6268.7388    99805   19.47%
+   2369  1109     7607.4268    31     7784.2600     6406.1816   126704   17.70%
+   3222  1509     7081.9096    86     7784.2600     7044.5871   154993    9.50%
+   4221  2054     7563.9948    37     7784.2600     7131.4801   183365    8.39%
+   4477  2152     6347.4735   176     7784.2600     7153.9557   197361    8.10%
+   4494  1802     6489.2989   175     7784.2600     7153.9557   200938    8.10%
+Elapsed time = 8.04 sec. (4077.30 ticks, tree = 1.77 MB, solutions = 7)
+   5177  1227     7749.1013    14     7784.2600     7333.7510   247746    5.79%
+   6476   990     7621.6804    39     7784.2600     7487.7895   328271    3.81%
+   8227  1628     7771.2030     5     7784.2600     7576.7847   398921    2.67%
+  10444  2291     7692.8869    23     7784.2600     7612.4539   479432    2.21%
+* 10484  2299      integral     0     7784.2600     7612.4539   480813    2.21%
+  12675  2866     7693.0222    32     7784.2600     7631.1631   558987    1.97%
+  15236  3199     7767.8964    12     7784.2600     7646.9738   642507    1.76%
+  18559  3303     7726.8552    12     7784.2600     7673.9444   723529    1.42%
+  22733  3030     7742.5615    20     7784.2600     7714.0485   800307    0.90%
+* 27508  2703      integral     0     7784.2600     7751.4550   840614    0.42%
+Elapsed time = 25.75 sec. (12463.09 ticks, tree = 1.09 MB, solutions = 8)
+  32175  1371        cutoff           7784.2600     7765.6330   864395    0.24%
+
+GUB cover cuts applied:  14
+Clique cuts applied:  134
+Cover cuts applied:  8
+Implied bound cuts applied:  61
+Flow cuts applied:  160
+Mixed integer rounding cuts applied:  266
+Gomory fractional cuts applied:  125
+
+Root node processing (before b&c):
+  Real time             =    1.06 sec. (450.20 ticks)
+Parallel b&c, 6 threads:
+  Real time             =   28.13 sec. (13574.11 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =   29.19 sec. (14024.31 ticks)
+optimal_tolerance
+Solution status =  102 : optimal_tolerance
+Objective value =  7784.259994
+
+
+ Solution written to solution.sol
+
